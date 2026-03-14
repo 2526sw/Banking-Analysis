@@ -46,7 +46,7 @@ The **Branch Analysis Page** evaluates banking performance across regions, citie
 
 ### 📦 3. Product Analysis Page  
 
-![Product Analysis Preview](/images/PRODUCT_ANALYSIS.png)
+![Product Analysis Preview](/PRODUCT_ANALYSIS.png)
 
 The **Product Analysis Page** focuses on product performance and customer adoption trends.
 
@@ -63,7 +63,7 @@ This page helps identify **top-performing products** and usage patterns.
 
 ### 🛡️ 4. Insurance Analysis Page  
 
-![Insurance Analysis Preview](/images/INSURANCE_ANALYSIS.png)
+![Insurance Analysis Preview](/INSURANCE_ANALYSIS%202.png)
 
 The **Insurance Analysis Page** evaluates insurance portfolio performance and claim behavior.
 
