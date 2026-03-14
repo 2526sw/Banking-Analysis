@@ -80,13 +80,28 @@ The **Insurance Analysis Page** evaluates insurance portfolio performance and cl
 
 ### ℹ️ 5. Information Page  
 
-![Info Page Preview](/images/INFO_PAGE.png)
+![Info Page Preview](/INFO_PAGE.png)
 
 The **Information Page** provides documentation on:
 - Data sources used  
 - Data model structure  
 - DAX calculations  
 - Navigation guidance  
+
+---
+
+### 🏦 6. Drill Through page   
+
+![Drill Through Preview](/DRILL_THROUGH.png)
+
+The **Drill Through page** evaluates banking performance across regions, cities, and branches.
+
+**Key Insights Include:**
+- Total Deposits, Withdrawals 
+- High-risk Claim Exposure   
+- Total Premiums & Total Claim Amount  on  
+- Claim Ratio
+- Gender, Rank of HiHg Risk, CustomerId, Customer name
 
 ---
 
