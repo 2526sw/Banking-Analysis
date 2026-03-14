@@ -18,7 +18,7 @@ The images below provide a visual preview of each page.
 
 ### 🏠 1. Home Page  
 
-![Home Page Preview](/images/HOME_PAGE.png)
+![Home Page Preview](/HOME_PAGE.jpeg)
 
 The **Home Page** acts as a central navigation hub, allowing users to move between:
 - Branch Analysis  
@@ -30,7 +30,7 @@ The **Home Page** acts as a central navigation hub, allowing users to move betwe
 
 ### 🏦 2. Branch Analysis Page  
 
-![Branch Analysis Preview](/images/BRANCH_ANALYSIS.png)
+![Branch Analysis Preview](/BRANCH_ANALYSIS.png)
 
 The **Branch Analysis Page** evaluates banking performance across regions, cities, and branches.
 
