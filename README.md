@@ -105,6 +105,19 @@ The **Drill Through page** evaluates banking performance across regions, cities,
 
 ---
 
+### 🏦 7. ToolTip page   
+
+![BANKING_TOOLTIP Preview](/BANKING%20TOOLTIP.png)
+
+The **ToolTip page** evaluates banking performance across regions, cities, and branches.
+
+**Key Insights Include:**
+- Individual Customer Claim Overview
+- Total Premiums
+- Total Claim
+
+---
+
 ## Tools Used  
 
 - **Excel** – Source data for banking and insurance datasets  
